@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 // ***********************************************
-// Proyecto: Juego Memoria
+// Proyecto: Velocimetro
 // Programador: Roberto Silva
 // Fecha: Set - 2016
 // ***********************************************
